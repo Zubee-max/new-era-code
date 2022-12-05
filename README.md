@@ -5,3 +5,9 @@ November
 getting from staging to working
 Git branching strategy
 Git mergine strategy
+
+
+
+
+
+Added dev branch
