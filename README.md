@@ -4,3 +4,4 @@ This is new-era code.
 November
 getting from staging to working
 Git branching strategy
+Git mergine strategy
