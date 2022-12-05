@@ -11,3 +11,7 @@ Git mergine strategy
 
 
 Added dev branch
+
+#This is confirmed as clean
+#Code is ready to merge to the master branch
+#Please do not make any changes to the master branch 
