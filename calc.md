@@ -28,4 +28,4 @@ echo -e "${NC}"
 calculate() {
 read -p "Enter first number: " num1
 
-#This calculator is ready for commt
+#This calculator is ready for commit
