@@ -21,4 +21,4 @@ See the difference between HTTPS and SSH
 
 Why we commit before push
 
-Creating a merge conflict.
+Creating a merge conflict- i want to understand merge conflict.
